@@ -62,7 +62,7 @@ churn-prediction-app/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/churn-prediction-app.git
+git clone https://github.com/Rohityadav2005/churn-prediction-app.git
 cd churn-prediction-app
 
 2️⃣ Install dependencies
